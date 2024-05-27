@@ -9,7 +9,7 @@ Lektion vecka 5, JavaScript funktioner och datastrukturer
 
 
 Veckoprojekt
-+ projektet - länk kommer
++ [projektet](project.md)
 + inlämning - länk kommer
 
 Inspelning
