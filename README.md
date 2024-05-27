@@ -9,11 +9,13 @@ Lektion vecka 5, JavaScript funktioner och datastrukturer
 
 
 Veckoprojekt
-+ [projektet](project.md)
-+ inlämning - länk kommer
++ [projektet](projekt.md)
++ [inlämning](https://docs.google.com/forms/d/e/1FAIpQLSeMT0IhLO6sMKDjWNxHBrWBCG8hKNMS5f6pLEMDviq8IUVISQ/viewform?usp=sf_link)
 
 Inspelning
-+ Länk till inspelning av lektionen - kommer
++ [Länk till inspelning av lektionen](https://folkuniversitetet-se.zoom.us/rec/share/VncvufT2JTd1qEL0jSaEKu7tFRUPA_NDjR5Q_Yo2rcq6crhdgo96nbWArxvBHPQY.5L34blrDjXGiYSQI)
++ Lösenkod: `%Q21R*.k`
+
 
 ## Resurser
 
