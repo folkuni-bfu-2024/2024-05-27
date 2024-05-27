@@ -4,6 +4,8 @@ Lektion vecka 5, JavaScript funktioner och datastrukturer
 ## Material
 + [Övningar](exercises.md)
 + Presentation: [06 Funktioner](https://docs.google.com/presentation/d/1wG-yV6x662Gzz6gOHnxxcN-ATD8aODGCMq-zn-N3dAE/edit?usp=sharing)
++ Kodexempel: [veckoprojektet, replit](https://replit.com/@david_zocom/SaddlebrownRoyalblueRuntime#index.js)
++ Kodexempel: [moduler](https://replit.com/join/fkaigpsrpq-david_zocom)
 
 
 Veckoprojekt
