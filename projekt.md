@@ -66,15 +66,21 @@ npm init -y
 
 Nu kan du använda koden nedan för att fråga användaren om man vill ha ett nytt skämt, eller om man vill avsluta. Du kan också fråga användaren hur många skämt man vill se.
 ```js
-import { question } from 'node:readline'
+import readline from 'node:readline/promises'
 
-const answer = await question('Do you want another joke? (Y/N)')
+const rl = readline.createInterface({
+	input: process.stdin,
+	output: process.stdout
+});
 
-let input = await question('How many jokes do you want?')
+const answer = await rl.question('Do you want another joke? (Y/N)')
+
+let input = await rl.question('How many jokes do you want?')
 input = Number(input)
 if( isNaN(input) ) {
 	console.log('Please write a number, try again...')
 }
+rl.close()
 ```
 
 4 Ge användaren möjlighet att lägga till nya skämt.
